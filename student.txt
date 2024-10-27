@@ -1,0 +1,5 @@
+Student name: Lina Sichlimiri 
+Student number: 738193
+Student class: HAIT24FT1E
+GitHub Repository: https://github.com/linasichlimiri/webmarkup
+GitHub Pages URL: https://linasichlimiri.github.io/webmarkup/
